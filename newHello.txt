@@ -1,0 +1,2 @@
+This is a new hello for newFile!
+Add a right line!
